@@ -1,5 +1,7 @@
 # Nexus-Soliton in 2D
 
+## Licence: [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+
 > These codes numerically calculate the equlibrium state configurations of Kiibble-Lazarides-Shafi Sring Wall and the Spin NMR of 1D nexus.
 >
 > Numerical results currently have been publised in two of my papers:
