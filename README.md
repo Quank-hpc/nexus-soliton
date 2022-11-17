@@ -1,4 +1,4 @@
-# Nexus-Soliton in 2D
+# Nexus-Soliton (NS) in 2D
 
 ## Licence: [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
@@ -10,6 +10,8 @@
 >
 > * [Nat. Commun. 10, 237 (2019)](https://doi.org/10.1038/s41467-018-08204-8)
 >
-> To understand how fibration intriduces composite topological objects please read [my paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023263)
+> To understand how fibration intriduces composite topological objects please read my and Grisha's paper
+>
+> * [Phys. RevResearch 2, 023263](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023263)
 
 More info can be found in dedicated page: [Nexus-Soliton](https://quank-hpc.github.io/nexus_soliton.html)
