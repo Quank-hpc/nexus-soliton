@@ -13,5 +13,9 @@
 > To understand how fibration intriduces composite topological objects please read my and Grisha's paper
 >
 > * [Phys. RevResearch 2, 023263](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023263)
+>
+> and also review paper cooperating with Jere and Volodya
+>
+> * [2211.17117](https://arxiv.org/abs/2211.17117)
 
-More info can be found in dedicated page: [Nexus-Soliton](https://quank-hpc.github.io/nexus_soliton.html)
+More info and plots can be found in dedicated page: [Nexus-Soliton](https://quank-hpc.github.io/nexus_soliton.html)
