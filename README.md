@@ -16,6 +16,6 @@
 >
 > and also review paper cooperating with Jere and Volodya
 >
-> * [2211.17117](https://arxiv.org/abs/2211.17117)
+> * [Journal of Physics: Condensed Matter 35 214001 (2023)](https://doi.org/10.1088/1361-648X/acc227)
 
 More info and plots can be found in dedicated page: [Nexus-Soliton](https://quank-hpc.github.io/nexus_soliton.html)
